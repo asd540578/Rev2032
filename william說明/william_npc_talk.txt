@@ -1,0 +1,15 @@
+資料表說明:
+
+id順序0開始排列
+
+npc_id
+
+shout:喊話(0：一般，1喊話)
+
+talk:說話內容
+
+order:對話順序
+
+end:最後一個的對話要設1  要不然只會喊一次
+
+npc資料庫impl欄位型態必須是L1Merchant且lv和mp的欄位必須是LV=1 HP=1

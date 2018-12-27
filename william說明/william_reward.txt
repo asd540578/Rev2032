@@ -1,0 +1,14 @@
+資料表說明:
+level等級。
+
+getItem獎勵道具。
+
+count獎勵道具的數量。
+
+enchantlvl武防具強化值 / 魔杖類次數。
+
+quest_id紀錄。
+
+quest_step紀錄的值。
+
+message顯示訊息。

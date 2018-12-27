@@ -1,0 +1,11 @@
+william_item_magic (設定魔法道具)。
+
+item_id道具編號
+
+checkClass判斷職業(0 = 不判斷、1 = 王族、2 = 騎士、3 = 法師、4 = 妖精、5 = 黑妖、6 = 龍騎士、7 = 幻術師)
+
+checkItem判斷攜帶物品(0 = 不判斷)
+
+skill_id魔法編號(需對應資料表 skills)
+
+removeItem是否刪除道具(0 = 不刪除 & 消耗體魔力或媒介、1 = 刪除 & 等同魔法卷軸)

@@ -1,0 +1,7 @@
+monster_enhance資料庫說明
+current_dc - 怪物的死亡次數(dc_enhance不等於0，才會累積喔!!)
+dc_enhance - 怪物死亡幾次強化一次
+怪物強化公式 - (current_dc / dc_enhance)屬性 + 原始屬性 = 最後屬性
+屬性 - monster_enhance裡面的level、hp、mp、ac、str、dex、con、wis、int、mr
+原始屬性 - npc裡面的level、hp、mp、ac、str、dex、con、wis、int、mr
+最後屬性 - 怪物重生後的level、hp、mp、ac、str、dex、con、wis、int、mr

@@ -1,0 +1,39 @@
+﻿item_id			魔法娃娃道具編號 對應 etcitem
+doll_id			魔法娃娃編號 對應 npc
+ac			防禦
+hpr			玩家體力回覆量(此設定為獨立設定功能不影響hpr_time欄位和add_hpr欄位)
+hpr_time		體力時間判斷可自行DB設定秒數(此設定對應add_hpr欄位 例1 = 1秒)
+add_hpr		        魔法娃娃額外回血(add_hpr欄位計時結束時人物回多少血)
+mpr			玩家魔力回覆量(此設定為獨立設定功能不影響mpr_time欄位和add_mpr欄位)
+mpr_time		魔力時間判斷可自行DB設定秒數(此設定對應add_mpr欄位 例1 = 1秒)
+add_mpr		        魔法娃娃額外回魔(add_mpr欄位計時結束時人物回多少魔)
+hit			增加物理命中率
+dmg			增加物理攻擊力
+dmg_chance		機率性增加物理攻擊力
+bow_hit			增加弓的命中率
+bow_dmg			增加弓的攻擊力
+dmg_reduction		傷害減免
+dmg_reduction_chance	機率性傷害減免
+dmg_evasion_chance	機率性迴避傷害
+weight_reduction	增加負重
+regist_stun		增加昏迷耐性
+regist_stone		增加石化耐性
+regist_sleep		增加會棉耐性
+regist_freeze		增加寒冰耐性
+regist_sustain		增加支撐耐性
+regist_blind		增加闇黑耐性
+make_itemid		獲得道具
+effect			效果 1:中毒
+exprate_chance		經驗機率發動
+exprate		        經驗加乘效果 舉例設定1等於經驗加乘效果1.0倍、設定1.5等於經驗加乘效果1.5倍
+str			增加力量
+Con			增加體質
+Dex			增加敏捷
+Cha			增加魅力
+Wis			增加精神
+Int			增加智力
+Wind			增加風屬性防禦
+water			增加水屬性防禦
+fire			增加火屬性防禦
+earth			增加地屬性防禦
+Mr			增加魔法防禦
